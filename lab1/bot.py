@@ -26,8 +26,6 @@ def hi(bot, trigger):
 
         i = i + 1
 
-
-
     print(emotion_total)
     print(emotion_average)
     print (count)
